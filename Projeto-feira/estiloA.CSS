@@ -1,0 +1,24 @@
+#container{
+	/*background-color:blue; */
+	background-color: white;
+	width: 50%; /*largura*/
+	height: 90%; /*altura*/
+	margin: 1px auto 1px auto;
+	border-color: black;
+	border-style: solid;
+	border-width: 3px;
+	text-align:center;
+}
+#teste{
+	color: black;}
+
+
+#txt_orientador{
+
+	width: 50%; /*largura*/
+	background-color: ;
+}
+#txt_vagas{
+	
+	width: 30%; /*largura*/
+}
