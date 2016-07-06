@@ -1,8 +1,8 @@
 #container{
 	/*background-color:blue; */
 	background-color: white;
-	width: 50%; /*largura*/
-	height: 90%; /*altura*/
+	width: 40%; /*largura*/
+	height: 80%; /*altura*/
 	margin: 1px auto 1px auto;
 	border-color: black;
 	border-style: solid;
